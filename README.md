@@ -1,5 +1,5 @@
 
-# Code for ACCV2020  paper-id360 **Background Learnable Cascade for Zero-Shot Object Detection** (anonymity)
+# Code for **Background Learnable Cascade for Zero-Shot Object Detection** 
 
 ## Code requirements
 + python: python3.7
