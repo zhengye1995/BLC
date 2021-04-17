@@ -128,7 +128,7 @@ python setup.py develop
                 ```
 # License
 
-ZSI is released under MIT License.
+ZSD is released under MIT License.
 
 
 ## Citing
