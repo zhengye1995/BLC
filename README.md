@@ -133,7 +133,7 @@ ZSD is released under MIT License.
 
 ## Citing
 
-If you use ZSI in your research or wish to refer to the baseline results published here, please use the following BibTeX entries:
+If you use BLC in your research or wish to refer to the baseline results published here, please use the following BibTeX entries:
 
 ```BibTeX
 
