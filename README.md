@@ -126,5 +126,23 @@ python setup.py develop
                 ```
                 python tools/gzsd_eval.py results/gzsd_65_15.pkl configs/BLC/inference/gzsd/gzsd_cascade_semantic_rcnn_information_flow_learnable_bg_65_15_1x.py
                 ```
+# License
+
+ZSI is released under MIT License.
 
 
+## Citing
+
+If you use ZSI in your research or wish to refer to the baseline results published here, please use the following BibTeX entries:
+
+```BibTeX
+
+@InProceedings{Zheng_2020_ACCV,
+    author    = {Zheng, Ye and Huang, Ruoran and Han, Chuanqi and Huang, Xi and Cui, Li},
+    title     = {Background Learnable Cascade for Zero-Shot Object Detection},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {November},
+    year      = {2020}
+}
+
+```
