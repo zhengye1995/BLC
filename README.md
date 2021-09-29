@@ -41,12 +41,12 @@ python setup.py develop
     - train BLRPN:
         - 48/17 split:
           ```
-          ./tools/dist_train.sh configs/train/BLRPN/blrpn_r50_fpn_semantic_48_17_1x.py 4
+          ./tools/dist_train.sh configs/BLC/train/BLRPN/blrpn_r50_fpn_semantic_48_17_1x.py 4
           ```   
             
         - 65/15 split:
           ```
-          ./tools/dist_train.sh configs/train/BLRPN/blrpn_r50_fpn_semantic_65_15_1x.py 4
+          ./tools/dist_train.sh configs/BLC/train/BLRPN/blrpn_r50_fpn_semantic_65_15_1x.py 4
           ```
     - generate new Ws:
         - 48/17 split:
